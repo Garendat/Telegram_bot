@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 661038322,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 389207832,
+          "is_bot": false,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 389207832,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "type": "private"
+        },
+        "date": 1552136348,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 661038323,
+      "message": {
+        "message_id": 5,
+        "from": {
+          "id": 389207832,
+          "is_bot": false,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 389207832,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "type": "private"
+        },
+        "date": 1552156390,
+        "text": "ghbdtn"
+      }
+    },
+    {
+      "update_id": 661038324,
+      "message": {
+        "message_id": 6,
+        "from": {
+          "id": 389207832,
+          "is_bot": false,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 389207832,
+          "first_name": "Gevork",
+          "last_name": "Migichiyan",
+          "username": "Garendat",
+          "type": "private"
+        },
+        "date": 1552156650,
+        "text": 
+      }
+    }
+  ]
+}
